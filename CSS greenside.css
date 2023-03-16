@@ -1,0 +1,55 @@
+body {
+color: rgb(0, 0, 0);
+background-color: aquamarine;
+font-family: 'Times New Roman', Times, serif;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 20px
+    
+} 
+img {
+    width: 700px;
+}
+
+.center{
+    display: flex; 
+    justify-content: center; 
+}
+
+.abc {
+ display: flex;
+}
+
+.nao{
+    text-align: center;
+    padding: 40px;
+    
+}
+
+.sim{
+    text-align:center;
+    padding: 10px;
+}
+
+.entra{
+    padding: 15px
+}
+
+.btn{
+    border-radius: 20px;
+    text-align: center;
+    padding: 10px;
+    max-width: fit-content;
+    background-color: greenyellow;
+    justify-content: center;
+}
+.cadastro{
+
+    
+
+}
